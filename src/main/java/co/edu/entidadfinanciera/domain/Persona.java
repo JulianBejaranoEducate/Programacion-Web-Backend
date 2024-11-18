@@ -1,6 +1,6 @@
 package co.edu.entidadfinanciera.domain;
 
-import jakarta.persistence.*;
+import jakarta.persistence.*;// Hola mundo
 
 import java.sql.Date;
 
